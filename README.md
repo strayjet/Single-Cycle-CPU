@@ -1,11 +1,11 @@
-# 🧠 Single Cycle CPU in Verilog
+# Single Cycle CPU in Verilog
 
 A custom-designed 8-bit single-cycle RISC-like CPU implemented in Verilog HDL.  
 This project demonstrates full CPU datapath design including instruction fetch, decode, execute, memory access, and write-back stages.
 
 ---
 
-## 🚀 Features
+## Features
 
 - 8-bit Program Counter
 - 16-bit Instruction Format
@@ -25,7 +25,7 @@ This project demonstrates full CPU datapath design including instruction fetch, 
 - Branch & Jump support (basic implementation)
 
 ---
-## 📦 Instruction Set (ISA)
+## Instruction Set (ISA)
 
 | Opcode | Instruction | Description |
 |--------|------------|-------------|
