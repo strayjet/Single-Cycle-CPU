@@ -86,7 +86,7 @@ The CPU is modularly designed, making every hardware block independently testabl
 ## Project Structure
 
 ```
-TinyRISC-8
+Single Cycle CPU
 │
 ├── alu.v
 ├── control_unit.v
